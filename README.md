@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Usama Ahmed</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer</h3>
 
-<img align ="right" alt ="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBDcww8i038Yp-QNjXZsaP7SYGnZ3D7OTHoA&s">
+<img align ="right" alt ="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_14yAwskliwGXY6_PHhNgdFHMe3BUPM__Vz5qnAugeu0jn3CGFSNJhV9CrI1BgIloLDI&usqp=CAU">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
