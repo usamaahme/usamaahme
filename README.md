@@ -1,3 +1,6 @@
+![logo](https://github.com/usamaahme/usamaahme/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
+
 <h1 align="center">Hi 👋, I'm Usama Ahmed</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer</h3>
 
